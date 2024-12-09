@@ -2,6 +2,8 @@
 
 Welcome to the **Amazon Clone** project! This is a simple frontend project replicating the look and feel of the Amazon website. It demonstrates proficiency in HTML and CSS for creating visually appealing and responsive web pages.
 
+Live at (https://amazon-clone-omega-ochre.vercel.app/)
+
 ![hero_image](https://github.com/user-attachments/assets/adfc7baa-54dd-43cd-b401-4a5365a36f47)
 
 
